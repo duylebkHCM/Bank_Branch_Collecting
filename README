@@ -1,0 +1,25 @@
+# Collect all bank branch in Vietnam using Selenium
+
+## Install package
+```bash
+pip install -r requirements.txt
+```
+
+## Get started
+
+```python
+python get_bankname.py
+```
+
+```python
+python get_district.py
+```
+
+```python
+python get_branch.py
+```
+
+```python
+python get_final.py
+```
+
