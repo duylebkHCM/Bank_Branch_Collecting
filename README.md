@@ -7,19 +7,19 @@ pip install -r requirements.txt
 
 ## Get started
 
-```python
+```bash
 python get_bankname.py
 ```
 
-```python
+```bash
 python get_district.py
 ```
 
-```python
+```bash
 python get_branch.py
 ```
 
-```python
+```bash
 python get_final.py
 ```
 
